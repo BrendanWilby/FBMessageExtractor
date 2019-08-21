@@ -1,1 +1,0 @@
-This script can be used to extract all individual Facebook messages from your personal Facebook message data (in HTML format) - which can be requested from Facebook under your settings
